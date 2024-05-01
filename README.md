@@ -1,5 +1,7 @@
 # Interview Practice Game
 
+<img height="400" src="https://github.com/AbdulDevHub/Local-Video-Player/blob/main/Extension%20Screenshot.png?raw=true">
+
 ## Overview
 
 This repository contains a "fun" game made using the game engine Twine to "practice" your interview skills. The game simulates various interview scenarios and provides feedback based on your responses.
