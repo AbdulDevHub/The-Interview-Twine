@@ -1,6 +1,7 @@
 # Interview Practice Game
 
-<img height="400" src="https://github.com/AbdulDevHub/Local-Video-Player/blob/main/Extension%20Screenshot.png?raw=true">
+<img height="400" src="https://github.com/AbdulDevHub/The-Interview-Twine/blob/main/Screenshots/Home.png?raw=true">
+<img height="400" src="https://github.com/AbdulDevHub/The-Interview-Twine/blob/main/Screenshots/Main.png?raw=true">
 
 ## Overview
 
